@@ -9,12 +9,16 @@ function Navbar() {
         allhoardings
       </div>
       <div className="flex justify-around text-xl">
-        <div className="px-6 py-3">
-          <FiShoppingCart />
-        </div>
-        <div className="px-6 py-3">
-          <FiUser />
-        </div>
+        <a href="#">
+          <div className="px-6 py-3">
+            <FiShoppingCart />
+          </div>
+        </a>
+        <a href="#">
+          <div className="px-6 py-3">
+            <FiUser />
+          </div>
+        </a>
       </div>
     </div>
   );
