@@ -24,11 +24,11 @@ function Banner() {
               className="outline-none bg-transparent w-4/5 md:pl-4"
             />
             <div className="flex space-x-2">
-              <button className="flex xl:border-2 border-black rounded-full space-x-2 2xl:px-3 2xl:py-1 mt-2 2xl:mt-0">
+              <button className="flex xl:border-2 border-black rounded-full space-x-2 xl:px-3 xl:py-1 mt-2 xl:mt-0">
                 <div>
                   <FaFilter className="mt-1" />
                 </div>
-                <div className="hidden text-base font-bold 2xl:block">
+                <div className="hidden text-base font-bold xl:block">
                   Filters
                 </div>
               </button>
