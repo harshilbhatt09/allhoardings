@@ -6,7 +6,7 @@ function Main() {
   let cardList = [];
   for (let i = 1; i <= card; i++) {
     cardList.push(
-      <div>
+      <div key={i}>
         <Card />
       </div>
     );
