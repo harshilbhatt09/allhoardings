@@ -2,7 +2,7 @@ import React from "react";
 import Card from "./Card";
 
 function Main() {
-  let card = 9;
+  let card = 3;
   let cardList = [];
   for (let i = 1; i <= card; i++) {
     cardList.push(
