@@ -3,6 +3,7 @@ import Navbar from './Components/Navbar'
 import Banner from './Components/Banner'
 import Main from './Components/Main'
 import UpperFooter from './Components/UpperFooter'
+import LowerFooter from './Components/LowerFooter'
 
 function App() {
   return (
@@ -10,7 +11,10 @@ function App() {
       <Navbar/>
       <Banner/>
       <Main/>
-      <UpperFooter/>
+      <div className='md:hidden'>
+        <UpperFooter />
+      </div>
+      <LowerFooter/>
     </div>
   )
 }

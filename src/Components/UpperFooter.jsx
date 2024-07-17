@@ -3,7 +3,7 @@ import { MdOutlineEmail } from "react-icons/md";
 
 function UpperFooter() {
   return (
-    <div className="md:flex justify-between w-3/4 mx-auto border-2 rounded-2xl px-4 md:px-16 py-5 font-[Raleway] my-32 z-10 bg-black">
+    <div className="md:flex justify-between w-3/4 mx-auto border-2 border-black rounded-2xl px-4 md:px-16 py-5 font-[Raleway] my-32 bg-black">
       <div className="my-auto text-white font-bold lg:text-3xl">
         STAY UPTO DATE ABOUT THE <br className="hidden md:block"/> LATEST OFFERS
       </div>

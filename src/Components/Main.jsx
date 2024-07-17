@@ -12,7 +12,7 @@ function Main() {
     );
   }
   return (
-    <div className="font-[Raleway] py-7">
+    <div className="font-[Raleway] py-7 mb-14">
       <div className="flex justify-center font-black text-xl md:text-3xl">
         Featured hoardings
       </div>
