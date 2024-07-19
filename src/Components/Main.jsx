@@ -19,7 +19,7 @@ function Main() {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 py-5 md:py-9">
         {cardList}
       </div>
-      <div className="flex justify-center py-3">
+      <div className="flex justify-center py-3 md:mb-52">
         <button className="border-2 px-3 border-black rounded-full text-xs md:text-base font-bold bg-[#F8FBFA]">
           View all
         </button>
