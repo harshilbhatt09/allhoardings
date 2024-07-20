@@ -5,7 +5,7 @@ import { FaFilter } from "react-icons/fa";
 function Banner() {
   return (
     <div className="font-[Raleway]">
-      <div className="bg-cover bg-[url('https://s3-alpha-sig.figma.com/img/ef6e/e64d/bb3a069dfe3928150ddca6b522fc838b?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Bmmd90ApSB5ueap4Cq1K~mRQ6H8KMJWMqy0E3OxGpeoEHa5dm8qzcGfvD4j-NMVIyFEwxINkvDPvtcVM7dr2xxyocJYU2LkbRDHsJrzFf3ZcQHnTw5P-ddzjfBYOH4xv4udYxd7h0wLen4YFuqKthhnD42Hv5KG5hwgzAKSMR-XQhW~xrFBlQsCMRlFgiO5fdtuRe0SBVh6il~7MyRrMSNXSRK3OUHQY~tQslnGEmA8SkASmuwHVTtwXg2TrH2Rocd1Mi8R1B2EfbvnsZ-5~rJChVDC~cgNMULFyk0vpuoFtNdcJjRfRJF7VkuD~~vF2VW94-fPaQTllrNiMWWao1A__')]">
+      <div className="bg-cover bg-[url('https://www.campbellacademy.co.uk/hs-fs/hubfs/martin-sanchez-ZOEXP6vnLb0-unsplash.jpg')]">
         <div className="backdrop-brightness-50 py-20 text-white flex justify-center font-black text-lg lg:text-3xl 2xl:text-4xl text-center font-[Raleway] ">
           Find and book out-of-home media <br></br> all over the world in one
           place
