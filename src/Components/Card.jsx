@@ -8,7 +8,7 @@ class Card extends Component {
     super();
     this.state = {
       imagesrc:
-        "https://s3-alpha-sig.figma.com/img/0ca4/2fde/bd4e9ccb3d6c0a782276fc4cb82d5c1c?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Q1poHDimS08h20c4n5VzZBNhZXSgsP2eSMxhkbq0l~9V0aXGRJ8oHd11RCt3yaZexSoZjDTjntdS036FC14dPPQ5jZhFLbu91ZqUIHd46-MglcYVfYI7F1df5TME3NmhhomF66ezLvuxRtYkyP3frqbz4f6x7PLjIFAUpBU5OSw4jdAs7rQhP3nanLKJjoU3ecffrz~LnU949~TScTJ08hQETixyP3X6xx28syFljRefUjOHUT7wtiUbQ6KvkLYCo72pv1AKXdvk~IlVFVa2duzCcskTYmU98~q~A9U82Ve4fnEnCWnKQ27K1-3XRN8rhYODCntzQsckI3ofeb3fbA__",
+        "https://www.heartandmind.us/wp-content/uploads/2022/11/arno-senoner-Ie8k7RgNYmU-unsplash-738x1024.jpg",
       city: "Karelibaug, Vadodara",
       rating: 4.5,
       price: "180",
